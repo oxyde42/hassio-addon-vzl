@@ -1,2 +1,2 @@
 # homeassistant-addon (update for S0 pulses)
-Minimales Update des  Home Assistant Community Addons von Markus Siebert für die Erfassung von S0 Impulsen. Damit kann dem Thread die passende Policy zugeteilt werden, die Messwerte sind gleichmäßiger, und es gibt es keine Fehlermeldung mehr.
+Minimal update of the Home Assistant Community Addon by Markus Siebert for the detection of S0 pulses. This allows the thread to be assigned the appropriate policy, the measured values are more consistent and there are no more error messages.
