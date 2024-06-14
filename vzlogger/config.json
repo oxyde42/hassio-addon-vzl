@@ -19,7 +19,7 @@
   "gpio": true,
   "apparmor": false,
   "uart": true,
-  "privileged": ["SYS_RAWIO", SYS_NICE],
+  "privileged": ["SYS_RAWIO", "SYS_NICE"],
   "devices": ["/dev/mem"],
   "options": {
     "configfile": "/share/vzlogger.conf"
