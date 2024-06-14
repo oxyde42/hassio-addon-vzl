@@ -1,7 +1,7 @@
 {
   "name": "vzLogger",
-  "version": "0.0.2",
-  "slug": "vzLogger",
+  "version": "0.0.1",
+  "slug": "vzLoggers0",
   "url": "https://github.com/oxyde42/hassio-addon-vzl",
   "description": "A tool to read and log measurements of a wide variety of smartmeters and sensors, including S0 pulses.",
   "arch": ["armhf", "armv7", "amd64"],
